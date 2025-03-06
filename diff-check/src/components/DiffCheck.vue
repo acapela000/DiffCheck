@@ -15,9 +15,9 @@
   </div>
 </template>
 
-<script lang="ts">
+<script lang="">
 import { defineComponent, computed, ref } from "vue";
-import { diffWords, diffChars } from "diff"; // Using the 'diff' library
+//import { diffWords, diffChars } from "diff"; // Using the 'diff' library
 
 export default defineComponent({
   setup() {
